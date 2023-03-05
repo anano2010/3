@@ -1,0 +1,49 @@
+.container{
+    position: absolute;
+    width: 562px;
+    height: 818px;
+    top: 341px;
+    left: 439px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+}
+.p1{
+    position: absolute;
+    width: 273px;
+height: 40px;
+left: 155px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+
+}
+.p2{
+    position: absolute;
+    width: 476px;
+height: 311px;
+left: 43px;
+top: 409px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+
+color: #000000;
+
+}
+img{
+    position: absolute;
+width: 159.24px;
+height: 146.57px;
+left: 201px;
+top: 97px;
+}
